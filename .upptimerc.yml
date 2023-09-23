@@ -9,4 +9,4 @@ sites:
     url: https://mysustainablesanctuary.com
 
 workflowSchedule:
-  uptime: '*/20 * * * *'
+  uptime: '42 * * * *'
