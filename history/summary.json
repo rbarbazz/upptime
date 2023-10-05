@@ -22,7 +22,7 @@
     "url": "https://mysustainablesanctuary.com",
     "icon": "https://icons.duckduckgo.com/ip3/mysustainablesanctuary.com.ico",
     "slug": "mysustainablesanctuary-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 365,
     "timeMonth": 490,
     "timeYear": 490,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-05": 0
+    }
   }
 ]
