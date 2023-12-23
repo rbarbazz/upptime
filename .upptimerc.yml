@@ -7,3 +7,6 @@ sites:
     url: https://www.raphaelbarbazza.com
   - name: mysustainablesanctuary.com
     url: https://mysustainablesanctuary.com
+
+status-website:
+  cname: upptime.rbarbazz.com
