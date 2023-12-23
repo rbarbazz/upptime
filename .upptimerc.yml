@@ -1,9 +1,8 @@
-# Change these first
-owner: rbarbazz # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: rbarbazz
+repo: upptime
 
 sites:
-  - name: raphaelbarbazza.com
+  - name: www.raphaelbarbazza.com
     url: https://www.raphaelbarbazza.com
   - name: mysustainablesanctuary.com
     url: https://mysustainablesanctuary.com
