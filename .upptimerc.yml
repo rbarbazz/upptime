@@ -9,5 +9,6 @@ sites:
     url: https://mysustainablesanctuary.com
 
 status-website:
-  name: Upptime
+  name: Upptime rbarbazz
   cname: upptime.rbarbazz.com
+  robotsText: "User-agent: * \n Disallow: /"
