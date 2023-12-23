@@ -10,4 +10,4 @@ sites:
 status-website:
   name: Upptime rbarbazz
   cname: upptime.rbarbazz.com
-  robotsText: "User-agent: * \n Disallow: /"
+  robotsText: "User-agent: * \nDisallow: /"
