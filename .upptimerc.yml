@@ -9,4 +9,5 @@ sites:
     url: https://mysustainablesanctuary.com
 
 status-website:
+  name: Upptime
   cname: upptime.rbarbazz.com
