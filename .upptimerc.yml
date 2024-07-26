@@ -4,8 +4,3 @@ repo: upptime
 sites:
   - name: www.raphaelbarbazza.com
     url: https://www.raphaelbarbazza.com
-
-status-website:
-  name: Upptime rbarbazz
-  cname: upptime.rbarbazz.com
-  robotsText: "User-agent: * \nDisallow: /"
