@@ -4,8 +4,6 @@ repo: upptime
 sites:
   - name: www.raphaelbarbazza.com
     url: https://www.raphaelbarbazza.com
-  - name: mysustainablesanctuary.com
-    url: https://mysustainablesanctuary.com
 
 status-website:
   name: Upptime rbarbazz
