@@ -8,3 +8,5 @@ sites:
 workflowSchedule:
   uptime: '*/15 * * * *'
 
+status-website:
+  publish: false
