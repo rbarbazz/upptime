@@ -7,3 +7,4 @@ sites:
 
 workflowSchedule:
   uptime: '15 * * * *'
+  staticSite: '0 0 1 1 *'
