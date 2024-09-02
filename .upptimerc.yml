@@ -6,6 +6,6 @@ sites:
     url: https://www.rbarbazz.com
 
 workflowSchedule:
-  uptime: '*/15 * * * *'
+  uptime: '42 * * * *'
 
 skipGeneratingWebsite: true
