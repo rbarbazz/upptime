@@ -4,3 +4,6 @@ repo: upptime
 sites:
   - name: www.rbarbazz.com
     url: https://www.rbarbazz.com
+
+workflowSchedule:
+  uptime: '15 * * * *'
