@@ -6,5 +6,5 @@ sites:
     url: https://www.rbarbazz.com
 
 workflowSchedule:
-  uptime: '15 * * * *'
-  staticSite: '0 0 1 1 *'
+  uptime: '*/15 * * * *'
+
